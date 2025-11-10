@@ -44,7 +44,7 @@ const ThermostatControl: React.FC<{ thing: Thermostat }> = ({ thing }) => {
           value={thing.targetTemperature}
           onChange={handleTargetTempChange}
           disabled={!canControl || thing.mode === ThermostatMode.OFF}
-          className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer dark:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed"
+          className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer dark:bg-gray-700 accent-blue-600 dark:accent-blue-500 disabled:opacity-50 disabled:cursor-not-allowed"
         />
       </div>
 

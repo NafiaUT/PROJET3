@@ -53,7 +53,7 @@ const LampControl: React.FC<{ thing: Lamp }> = ({ thing }) => {
             value={thing.brightness}
             onChange={handleBrightnessChange}
             disabled={!canControl || thing.status === 'OFF'}
-            className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer dark:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed"
+            className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer dark:bg-gray-700 accent-blue-600 dark:accent-blue-500 disabled:opacity-50 disabled:cursor-not-allowed"
           />
           <span className="font-semibold text-gray-700 dark:text-gray-300 w-8 text-right">{thing.brightness}%</span>
         </div>

@@ -1,5 +1,5 @@
 {
   "name": "Web of Things",
-  "description": "A sophisticated dashboard to monitor and control a simulated Web of Things (WoT) ecosystem. It features real-time updates, role-based access control, historical data analysis, and intelligent automation rules.",
+  "description": "A dashboard for monitoring and controlling a simulated Web of Things (WoT) ecosystem of smart devices.",
   "requestFramePermissions": []
 }
