@@ -1,0 +1,5 @@
+{
+  "name": "Web of Things",
+  "description": "A dashboard for monitoring and controlling a simulated Web of Things (WoT) ecosystem of smart devices.",
+  "requestFramePermissions": []
+}
