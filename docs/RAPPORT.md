@@ -1,7 +1,7 @@
 # Rapport d'architecture WoT Eco
 
 ## 1. Objet et perimetre
-WoT Eco illustre une pile Web of Things moderne composee d'une passerelle logicielle, de services virtuels et d'un tableau de bord temps reel. Le projet cible un scenario de maison connectee qui regroupe eclairage, chauffage, capteurs environnementaux et parametres d'efficacite energetique. Ce rapport (environ 4 a 5 pages) decrit:
+WoT Eco illustre une pile Web of Things moderne composee d'une passerelle logicielle, de services virtuels et d'un tableau de bord temps reel. Le projet cible un scenario de maison connectee qui regroupe eclairage, chauffage, capteurs environnementaux et parametres d'efficacite energetique. Ce rapport (environ 5 pages) decrit:
 
 - l'architecture logicielle et les flux de donnees clefs;
 - les choix de conception et les compromis retenus;
